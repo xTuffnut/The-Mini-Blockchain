@@ -114,7 +114,7 @@ GitHub: @xTuffnut
 Email: slimanemhmed2006@email.com
 LinkedIn: Slimane M'hamed
 
-Project Link: [https://github.com/yourusername/mini-blockchain](https://github.com/xTuffnut/The-Mini-Blockchain)
+Project Link: https://github.com/xTuffnut/The-Mini-Blockchain
 
 🌟 Star History
 If you find this project helpful, please consider giving it a star! ⭐
