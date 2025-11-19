@@ -42,7 +42,7 @@
 
     Clone the repository
 
-        git clone https://github.com/yourusername/mini-blockchain.git
+        git clone https://github.com/xTuffnut/mini-blockchain.git
         cd mini-blockchain
 
 2. That's it! No dependencies to install.
